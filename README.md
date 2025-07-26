@@ -1,11 +1,45 @@
-CODSOFT - Python Internship Projects This repository contains all the tasks and mini-projects completed during my CodSoft Python Development Internship. These projects focus on building a strong foundation in core Python concepts through simple, real-world applications.
+### 💼 CODSOFT – Python Internship Projects
 
-🐍 Projects Included:
+This repository contains all the tasks and mini-projects completed during my **CodSoft Python Development Internship**. Each project is designed to strengthen core Python skills through practical, beginner-friendly applications that reflect real-world use cases.
 
-🧮 Basic Calculator: A simple command-line calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division. This project emphasizes user input handling, conditional statements, and clean output formatting.
+---
 
-🔐 Password Generator: An application that creates strong and random passwords based on user-defined length and complexity. This project explores the use of Python's random and string modules to enhance security awareness through practical implementation.
+## 🐍 Projects Included
 
-✊ Rock-Paper-Scissors Game: A fun and interactive game where users play against the computer. Featuring randomized computer choices, game logic, and optional score tracking across rounds, this project showcases the application of loops, conditionals, and user interaction.
+### 🧮 1. Basic Calculator
 
-A journey of learning Python by doing — one project at a time. 🚀 Let the coding continue! 💻🔥
+A simple command-line calculator that performs basic arithmetic operations:
+**➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division**
+
+* Focus: User input, conditional statements (`if-else`), basic error handling
+* Features clear output formatting and simple logic flow
+
+---
+
+### 🔐 2. Password Generator
+
+Generates strong, customizable passwords using Python’s built-in libraries.
+
+* Focus: Use of `random` and `string` modules
+* Ensures password strength by including uppercase, lowercase, digits, and special characters
+* Validates password length and randomness
+
+---
+
+### ✊ 3. Rock-Paper-Scissors (GUI Version)
+
+An interactive GUI-based game where the user competes against the computer.
+
+* Focus: GUI design with `tkinter`, event-driven programming
+* Features real-time score tracking, colorful buttons, and emojis
+* Reinforces concepts like randomization, game logic, and modular design
+
+---
+
+## 🚀 A Journey in Python
+
+Each project was built step-by-step with the goal of:
+
+* Strengthening Python fundamentals
+* Practicing problem-solving
+* Gaining experience with real-world coding patterns
